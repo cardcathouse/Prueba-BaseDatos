@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433685142225",
+    "project_id": "pantalla-bienvenida-k6wc8w",
+    "storage_bucket": "pantalla-bienvenida-k6wc8w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433685142225:android:f64ff95d621baf624283f0",
+        "android_client_info": {
+          "package_name": "com.cardcathouse.pantallabienvenida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOPslXksEumZVjocVpzcLaPEPxwYqxIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
