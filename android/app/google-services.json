@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:433685142225:android:f64ff95d621baf624283f0",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.cardcathouse.pantallabienvenida"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDaOPslXksEumZVjocVpzcLaPEPxwYqxIM"
+          "current_key": ""
         }
       ],
       "services": {
